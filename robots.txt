@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perotackso.github.io/sitemap.html.gz
+Sitemap: https://perotackso.github.io/app/sitemap.html.gz
+Sitemap: https://perotackso.github.io/assets/sitemap.html.gz
+Sitemap: https://perotackso.github.io/css/sitemap.html.gz
+Sitemap: https://perotackso.github.io/includes/sitemap.html.gz
+Sitemap: https://perotackso.github.io/item/sitemap.html.gz
+Sitemap: https://perotackso.github.io/src/sitemap.html.gz
